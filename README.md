@@ -1,12 +1,19 @@
 Multiple regression and ensemble learning models were applied to predict the logarithm of car prices (for better handling of skewed price distribution). The models used include:
 
 1.Linear Regression
+
 2.Random Forest Regressor
+
 3.Gradient Boosting Regressor (GBR)
+
 4.XGBoost Regressor (XGBR)
+
 5.RidgeCV & LassoCV
+
 6.Support Vector Regression (SVR)
+
 7.LightGBM and CatBoost
+
 8.GridSearchCV for hyperparameter tuning
 
 **Top performing models:**
